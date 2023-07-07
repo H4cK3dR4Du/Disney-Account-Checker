@@ -3,7 +3,7 @@ The best account checker for Disney+, what are you waiting for to try it? Here I
 
 ## 📹 Preview
 
-https://github.com/H4cK3dR4Du/videos/blob/main/H4cK3dR4Du%20Preview.mp4
+https://raw.githubusercontent.com/H4cK3dR4Du/videos/main/H4cK3dR4Du%20Preview.mp4
 
 ## 🔥 Features
 - Fully Requests Based Checker
