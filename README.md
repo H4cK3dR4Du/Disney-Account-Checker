@@ -1,5 +1,5 @@
 # Disney+ Account Checker 🪐
-The best account checker for Disney+, what are you waiting for to try it? Here I leave you a preview and the functions it has.
+The best account checker for Disney+, what are you waiting for to try it? Here I leave you a video preview and the functions it has.
 
 ## 📹 Preview
 
