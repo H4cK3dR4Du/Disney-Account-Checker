@@ -3,7 +3,7 @@ The best account checker for Disney+, what are you waiting for to try it? Here I
 
 ## 📹 Preview
 
-<iframe src="https://streamable.com/0jjmwz" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+src="https://streamable.com/0jjmwz" width="640" height="360"
 
 ## 🔥 Features
 - Fully Requests Based Checker
