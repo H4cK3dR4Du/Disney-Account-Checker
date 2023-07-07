@@ -3,10 +3,7 @@ The best account checker for Disney+, what are you waiting for to try it? Here I
 
 ## 📹 Preview
 
-<video controls>
-  <source src="https://streamable.com/0jjmwz" type="video/mp4">
-  Tu navegador no admite el elemento de video.
-</video>
+[![Video de ejemplo](https://thumbnail.site/0jjmwz.jpg)](https://streamable.com/0jjmwz)
 
 ## 🔥 Features
 - Fully Requests Based Checker
