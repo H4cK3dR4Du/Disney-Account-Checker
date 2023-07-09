@@ -332,7 +332,7 @@ time.sleep(2)
 print("\n\n\n")
 accounts = []
 
-with open('accounts.txt', 'r') as file:
+with open('accounts.txt', 'r', encoding='utf-8') as file:
     for line in file:
         line = line.strip()
         if ':' in line:
