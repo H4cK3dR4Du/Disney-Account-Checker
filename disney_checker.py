@@ -336,7 +336,9 @@ with open('accounts.txt', 'r') as file:
     for line in file:
         line = line.strip()
         if ':' in line:
-            email, password = line.split(':')
+            parts = line.split(':')
+            email = parts[0]
+            password = parts[1]
             accounts.append((email.strip(), password.strip()))
 
 def process_account(email, password):
